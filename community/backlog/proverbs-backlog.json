@@ -610,7 +610,7 @@
     "romaji": "Warau kado ni wa fuku kitaru",
     "english": "Fortune comes to a laughing gate",
     "meaning": "Good fortune comes to those who smile",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -619,7 +619,7 @@
     "romaji": "Ryouyaku wa kuchi ni nigashi",
     "english": "Good medicine tastes bitter",
     "meaning": "Helpful advice can be hard to hear",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -629,7 +629,7 @@
     "english": "One cry of the crane",
     "meaning": "A single influential person settles a matter",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 71,
