@@ -16,5 +16,11 @@
     "backgroundColor": "oklch(96.0% 0.015 210.0 / 1)",
     "mainColor": "oklch(55.0% 0.185 200.0 / 1)",
     "secondaryColor": "oklch(60.0% 0.155 25.0 / 1)"
+  },
+  {
+    "id": "sakura-soda",
+    "backgroundColor": "oklch(94.0% 0.025 345.0 / 1)",
+    "mainColor": "oklch(68.0% 0.160 350.0 / 1)",
+    "secondaryColor": "oklch(72.0% 0.110 210.0 / 1)"
   }
 ]
