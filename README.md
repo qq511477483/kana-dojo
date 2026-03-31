@@ -136,6 +136,10 @@ npm run check
 
 ## Credits
 
+### Logo
+
+- [Talor Ash](https://www.instagram.com/talorash/) — creator of the KanaDojo logo.
+
 ### Sponsor
 
 - [Vercel](https://vercel.com/) — KanaDojo is supported by Vercel.
