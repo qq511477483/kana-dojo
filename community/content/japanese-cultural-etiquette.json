@@ -66,9 +66,9 @@
   "note": "分けやすさが好まれる。"
 },
   {
-  "situation": "訪問時の玄関 3",
-  "do": "玄関で靴を脱ぎ、向きをそろえる",
-  "dont": "靴を履いたまま上がらない",
-  "context": "Visiting someone's home"
+  "situation": "お辞儀 5",
+  "do": "場面に応じて角度を使い分ける",
+  "dont": "相手を見ながらお辞儀をしない",
+  "context": "Bowing in formal situations"
 }
 ]
