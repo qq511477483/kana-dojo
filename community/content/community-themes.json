@@ -276,9 +276,9 @@
   "secondaryColor": "oklch(78.0% 0.095 140.0 / 1)"
 },
   {
-  id: 'gingko-gold',
-  backgroundColor: 'oklch(23.0% 0.030 85.0 / 1)',
-  mainColor: 'oklch(86.0% 0.165 95.0 / 1)',
-  secondaryColor: 'oklch(70.0% 0.115 75.0 / 1)'
+  id: 'sakurajima-ash',
+  backgroundColor: 'oklch(22.0% 0.025 270.0 / 1)',
+  mainColor: 'oklch(65.0% 0.170 25.0 / 1)',
+  secondaryColor: 'oklch(58.0% 0.055 260.0 / 1)'
 }
 ]
