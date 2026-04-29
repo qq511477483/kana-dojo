@@ -276,9 +276,9 @@
   "secondaryColor": "oklch(78.0% 0.095 140.0 / 1)"
 },
   {
-  "id": "sumi-ink",
-  "backgroundColor": "oklch(14.0% 0.015 260.0 / 1)",
-  "mainColor": "oklch(85.0% 0.090 250.0 / 1)",
-  "secondaryColor": "oklch(70.0% 0.070 240.0 / 1)"
+  "id": "cherry-cola",
+  "backgroundColor": "oklch(16.0% 0.055 15.0 / 1)",
+  "mainColor": "oklch(80.0% 0.180 25.0 / 1)",
+  "secondaryColor": "oklch(75.0% 0.130 50.0 / 1)"
 }
 ]
