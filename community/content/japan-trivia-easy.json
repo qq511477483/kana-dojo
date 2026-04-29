@@ -747,8 +747,8 @@
   "correctIndex": 0
 },
   {
-  "question": "Which ocean borders Japan to the east?",
-  "answer": "Pacific Ocean",
-  "options": ["Pacific Ocean", "Sea of Japan", "Indian Ocean", "Atlantic Ocean"]
+  "question": "Which Japanese art form involves folding paper into shapes?",
+  "answer": "Origami",
+  "options": ["Origami", "Ikebana", "Shodo", "Kintsugi"]
 }
 ]
