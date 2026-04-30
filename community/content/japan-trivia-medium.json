@@ -230,13 +230,13 @@
   "correctIndex": 0
 },
   {
-  "question": "What is the name of Japan’s national public broadcaster? (Community variation 54)",
+  "question": "Which Japanese food is a savory pancake cooked on a griddle?",
   "difficulty": "medium",
   "answers": [
-    "NHK",
-    "NHK World Japan",
-    "Asahi",
-    "Fuji TV"
+    "Okonomiyaki",
+    "Sashimi",
+    "Onigiri",
+    "Mochi"
   ],
   "correctIndex": 0
 }
