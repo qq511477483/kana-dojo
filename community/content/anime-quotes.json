@@ -357,10 +357,17 @@
     "character": "DIO"
   },
   {
-  "japanese": "なにィ！？",
-  "romaji": "Nanii!?",
-  "english": "What?! (alt wording 9)",
+  "japanese": "駆逐してやる!この世から一匹残らず!",
+  "romaji": "Kuchiku shite yaru! Kono yo kara ippiki nokorazu!",
+  "english": "I'll exterminate them! Every last one from this world! (alt wording 36) (alt wording 88)",
+  "anime": "Attack on Titan",
+  "character": "Eren Yeager"
+},
+  {
+  "japanese": "ほう…向かってくるのか",
+  "romaji": "Ho... mukatte kuru no ka",
+  "english": "Oh? You're approaching me? (alt wording 3)",
   "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-  "character": "Joseph Joestar"
+  "character": "DIO"
 }
 ]
