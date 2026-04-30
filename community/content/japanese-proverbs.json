@@ -413,10 +413,22 @@
   "english": "Even a walking dog will hit a stick",
   "meaning": "Try anything and you might get lucky (or unlucky)"
 },
+{
+  "japanese": "灯台下暗し",
+  "romaji": "Toudai moto kurashi",
+  "english": "It's darkest under the lighthouse",
+  "meaning": "The obvious is often overlooked"
+},
+{
+  "japanese": "良薬は口に苦し",
+  "romaji": "Ryouyaku wa kuchi ni nigashi",
+  "english": "Good medicine tastes bitter",
+  "meaning": "Helpful advice often sounds harsh"
+},
   {
-  "japanese": "急がば回れ",
-  "romaji": "Isogaba maware",
-  "english": "If in a hurry, go around",
-  "meaning": "The safer path can be faster"
+  "japanese": "二兎を追う者は一兎をも得ず",
+  "romaji": "Ni to wo ou mono wa itto wo mo ezu",
+  "english": "Chase two rabbits, catch none",
+  "meaning": "Focus on one thing"
 }
 ]
