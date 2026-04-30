@@ -230,13 +230,13 @@
   "correctIndex": 0
 },
   {
-  "question": "Which Japanese food is a savory pancake cooked on a griddle?",
+  "question": "Which Japanese beverage is made from roasted barley?",
   "difficulty": "medium",
   "answers": [
-    "Okonomiyaki",
-    "Sashimi",
-    "Onigiri",
-    "Mochi"
+    "Mugicha",
+    "Matcha",
+    "Genmaicha",
+    "Sencha"
   ],
   "correctIndex": 0
 }
